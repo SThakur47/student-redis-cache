@@ -1,0 +1,2 @@
+public class StudentCacheApplicationTests {
+}
