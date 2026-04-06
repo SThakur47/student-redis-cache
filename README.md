@@ -18,9 +18,13 @@
 Edit `src/main/resources/application.properties`:
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/studentdb
+
 spring.datasource.username=postgres
+
 spring.datasource.password=yourpassword
+
 spring.data.redis.host=localhost
+
 spring.data.redis.port=6379
 
 
